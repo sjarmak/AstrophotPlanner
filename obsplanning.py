@@ -59,7 +59,7 @@ from astroquery.simbad import Simbad
 from astropy import coordinates
 from astropy.wcs import WCS 
 import astropy.units as u
-import multicolorfits as mcf
+#import multicolorfits as mcf
 from matplotlib import rcParams
 import matplotlib.patches as patches
 import matplotlib.patheffects as PathEffects
